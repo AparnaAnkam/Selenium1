@@ -9,7 +9,7 @@ public class Test0 {
 		// TODO Auto-generated method stub
 		//System.setProperty("webdriver.chrome.driver" , "./software/chomedriver.exe");
 
-		ChromeDriver driver = new ChromeDriver();
+		ChromeDriver driver = new ChromeDriver();//this change has been done by github
 		
 		//FirefoxDriver driver=new FirefoxDriver();
 		//driver.close();
